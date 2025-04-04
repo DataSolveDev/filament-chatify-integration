@@ -5,7 +5,7 @@
     width: 56px;
     height: 56px;
     border-radius: 50%;
-    background-color: #2563eb;
+    background-color: #f35c13;
     border: none;
     cursor: pointer;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -16,7 +16,7 @@
 }
 
 .chat-button:hover {
-    background-color: #1d4ed8;
+    background-color: #a72aa2;
     transform: scale(1.05);
 }
 
