@@ -18,9 +18,15 @@
     "require": {
         "php": "^8.1",
         "filament/support": "^3.0",
-        "munafio/chatify": "^1.0",
+        "munafio/chatify": "dev-master",
         "spatie/laravel-package-tools": "^1.9"
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/DataSolveDev/chatify"
+        }
+    ],
     "extra": {
         "laravel": {
             "providers": [
